@@ -8,6 +8,7 @@ public class UseAuto {
 		System.out.println(a.getPrice());
 		System.out.println(e.getBrand());
 		System.out.println(a);
+		System.out.println(a);
 		
 	}
 
